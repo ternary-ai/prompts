@@ -1,0 +1,5 @@
+f"Help me understand following by describing as a detailed knowledge graph: {concept}."
+f"""Given this entity {entity}, perform the following actions:
+	- identify as many relations among entities as possible
+	- output a list in the format [ENTITY 1, TYPE of ENTITY 1, RELATION, ENTITY 2, TYPE of ENTITY 2].
+    The most important entity types are: person, organization, location, criminal charge (including formal accusation, breach, allegation, etc.), title, money."""

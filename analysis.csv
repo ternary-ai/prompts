@@ -1,0 +1,28 @@
+f"Explain {shortName}'s business model from the viewpoint of an investment analyst"
+f"""Write a SWOT analysis for company : {shortName} Your response should be in JSON.in this format [{"strengths":"string","weaknesses":"string","opportunities":"string","threats":"string"}]"""
+f"""Describe key risks associated with investing in company : {shortName} Your response should be in JSON and in this format: [{"risk":"string"}]"""
+f"""Write three investment theses (bullish, neutral, bearish) for company : {shortName}. Your response should be in JSON and in this format: {"bullish":"string","neutral":"string","bearish":"string"}"""
+f"I need to perform financial due diligence on {shortName}. Can you provide me with a checklist and recommend any relevant tools?"
+f"Compare quarterly revenue trends for {shortName1} and {shortName2} as provided in these two arrays of python dictionaries {array1},{array2} "
+f"Analyze the liabilities of {shortName}. Here is the data {liabilityData}. Can you provide me with a step-by-step valuation. Please explain your reasoning for each step."
+f"I would like you to use the attached structured financial data to generate a detailed 
+report. This report should include an analysis of key performance 
+indicators, identification of trends, and observations about our 
+company's financial performance over the last quarter. Data :{data}"
+f"I have a set of news articles and financial reports related to the {industry} industry. Can you 
+analyze these texts and extract insights that indicate the overall 
+market sentiment towards this sector?"
+f"I have a dataset that includes financial data for {shortName}. Based on this data, could you answer the following questions: What was the total revenue last quarter?  Are there any observable trends in the operating expenses over the past year?"
+f"I have financial data for two companies, {shortName1} and {shortName2}. Could you perform an analysis that compares the revenue performance of these two companies over the last five years? Also, suggest some visualizations that would effectively illustrate this comparison. Financial Data : {fData}"
+f"For these five companies {companyArray} could you generate a brief, human-readable summary for each of these investments, highlighting key features and performance metrics?"
+f"Analyze if the beta of my portfolios are a problem?. Portfolio {portfolio}"
+f"Put yourself in the shoes of a seasoned investor evaluating {shortName}. Formulate a series of strategic investment goals that address key areas such as capital appreciation, cash flow optimization, tax efficiency, asset allocation, and exit strategies. Elaborate on the benefits and potential outcomes of each goal to illustrate their relevance in driving financial success."
+f"Imagine you are a financial strategist tasked with identifying investment goals for {shortName}. Develop a set of well-defined and measurable investment goals that encompass growth, income generation, risk management, diversification, and long-term wealth accumulation. Provide a clear rationale for each goal to demonstrate its significance in relation to the client’s financial aspirations."
+f"Put yourself in the shoes of a seasoned investor evaluating {shortName}. Formulate a series of strategic investment goals that address key areas such as capital appreciation, cash flow optimization, tax efficiency, asset allocation, and exit strategies. Elaborate on the benefits and potential outcomes of each goal to illustrate their relevance in driving financial success."
+f"Imagine you are a financial consultant tasked with assessing the investment performance of {shortName}’s various investment strategies. Analyze factors such as return on investment, volatility, Sharpe ratio, and drawdowns to provide an in-depth evaluation of the strategies’ effectiveness in meeting financial objectives and managing risk."
+f"Put yourself in the shoes of a portfolio manager evaluating the performance of {shortName}’s investment funds. Use quantitative and qualitative measures, such as alpha, beta, standard deviation, and peer group analysis, to assess how the funds have performed relative to their stated objectives and industry benchmarks."
+f"Here is a 10-K document. {document} . Analyze it and generate “amazing insights that no human would ever be able to see.” — Although, you would be able to see these."
+f"Here is a list of transactions from politicians over the last 6 months. Identify an interesting insight. By interesting insights I mean the observation of an unusual events. Transactions {transactions}"
+f"Here is a list of transactions from company insiders over the last 6 months. Identify an interesting insight. By interesting insights I mean the observation of an unusual events. Transactions {transactions}"
+f"Here is a the transcript document of an earnings call. {document} . Analyze it and generate “amazing insights that no human would ever be able to see.” — Although, you would be able to see these."
+f"I need to conduct a valuation analysis for {shortName}. Can you provide me with a step-by-step valuation. Please explain your reasoning for each step.

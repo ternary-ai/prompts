@@ -1,0 +1,11 @@
+f"""Who are three main publicly listed competitors (company name, tickers) for company : {shortName}. Your response should be in JSON and in this format: [{"competitor":"string","ticker":"string"}]"""
+f"please explain the term 'sharpe ratio' in investing?"
+f"please explain how I can use options to reduce risk in my investment in {shortName}?"
+f"I have these stocks in my portfolio {portfolio}, please analyze how they are exposed to concentration risk?"
+f"I have these stocks in my portfolio {portfolio}, please analyze how they are exposed to default risk?"
+f"What Are Ways to Minimize Risk With Stocks?"
+f"What Are Risk Metrics that are relevant for company {company}?"
+f"Brainstorm and suggest effective strategies for managing risk and volatility in my portfolio {portfolio}"
+f"Identify innovative risk management strategies for {portfolio} to navigate market fluctuations and protect investment capital."
+f"What might cause {shortName} to lose momentum and fail. Be as specific as possible. List your 5 best answers and rank them by most likely to occur with the highest loss."
+f"What might cause {shortName} to go bankrupt given the current status of their Balance Sheet, Statement of Cashflows, and Income Statement. Balance Sheet:{balanceSheet}. Statement of Cash Flows {cfStatement} . Income Statement: {incomeStatement}
