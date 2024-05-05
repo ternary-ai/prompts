@@ -2,6 +2,7 @@ f"Could you explain the following financial terms in plain, easy-to-understand l
 f"Could you explain the following financial terms in plain, professional language that an investment manager would understand :{term}?"
 f"Could you explain the relationship between the financial terms in plain, easy-to-understand language:'{term1, term2}'?"
 f"Please explain the term '{term}' in investing?"
+f"Please provide a deep-dive explanation of the term '{term}' as used commonly in investing?"
 f"Explain the relationship between {term1} and {term2}?"
 f"Explain {term} in fundamental analysis and how to calculate it?"
 f"Pretend you are famous {investor}. Explain the {concept} to me."

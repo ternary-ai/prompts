@@ -1,9 +1,8 @@
-index,prompt
-1,f"Pretend you are {investor1} in a discussion with {investor2} discussing an investment into {shortName} today. Recreate the dialogue and decision making process. Make sure you end the conversation with a decision"
-2,f"Give me a weird fact about {shortName} and hypothesize what this could mean for the future of the company"
-3,f"Here is my idea for a trade I want to make {transaction}. Critique this trade as if you were an experienced investment manager. Explain your criticism step by step."
-4,f"Here is my idea for a trade I want to make {transaction}. Explain if this trade is in line with my investment goals or not. Here are my investment goals {goals}. Explain your criticism step by step."
-5,f"You are an experienced investment manager hired by me to analyse my trades. Critique the following analysis and explain why it might create a financial loss. Analysis : {analysis}"
-6,f"Here is a list of anomalies : {anomalies}. Develop an action plan to exploit the identified anomalies through investment strategies or risk-management measures"
+f"Pretend you are {investor1} in a discussion with {investor2} discussing an investment into {shortName} today. Recreate the dialogue and decision making process. Make sure you end the conversation with a decision"
+f"Give me a weird fact about {shortName} and hypothesize what this could mean for the future of the company"
+f"Here is my idea for a trade I want to make {transaction}. Critique this trade as if you were an experienced investment manager. Explain your criticism step by step."
+f"Here is my idea for a trade I want to make {transaction}. Explain if this trade is in line with my investment goals or not. Here are my investment goals {goals}. Explain your criticism step by step."
+f"You are an experienced investment manager hired by me to analyse my trades. Critique the following analysis and explain why it might create a financial loss. Analysis : {analysis}"
+f"Here is a list of anomalies : {anomalies}. Develop an action plan to exploit the identified anomalies through investment strategies or risk-management measures"
 
 

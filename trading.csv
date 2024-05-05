@@ -1,4 +1,4 @@
-f"I have bought {tShares} shares of this ticker {ticker} at the price of (tPrice) on date (tDate}. Please create a transaction file in a python dict format"
+f"I have bought {tShares} shares of this stock {ticker} at the price of (tPrice) on date (tDate}. Please create a transaction file in a python dict format"
 f"I have sold {tShares} shares of this ticker {ticker} at the price of (tPrice) on date (tDate}. Please create a transaction file in a python dict format"
 f"Develop a set of entry and exit rules for a swing trading strategy using [shortName]."
 f"Calculate the position size for a trade on {shortName} with a 2% risk per trade and a $10,000 account balance."

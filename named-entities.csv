@@ -1,3 +1,3 @@
-f"I will give you a part of text. Please identify all people and their roles in this document : { document } "
+f"Please identify all people and their roles in this document : { document } "
 f"I will give you a part of text. Please identify all companies in this document : { document } "
 f"I will give you a sentence and an entity. Please critique of the entity is correct. Please respond only with True or False . Sentence: {sentence}. Entity:{entity}"

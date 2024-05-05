@@ -1,4 +1,4 @@
-f"Use this trading transaction to create a new entry for my trading journal. transaction : {transaction}. Return a python dict."
+f"Use this transaction to create a new entry for my trading journal. transaction : {transaction}. Return a python dict."
 f"Propose the ideal format for entries into my trading journal. Explain your reasoning. Then prepare a python dict in your proposed format"
 f"Write an entry for my trading journal for this transaction {transaction}. If you keep trading statistics as part of your trading journal - even better. Along with your own observations, the stats will give you important insights. "
 f"Reason a trade for an entry for my trading journal for this transaction {transaction}. Include in your reasoning stop-loss and take-profit levels, and an analysis of this RSI data {RSI} and this MACD data {MACD}"

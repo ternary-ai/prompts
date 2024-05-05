@@ -1,4 +1,4 @@
-f"Here is my portfolio {portfolio}, please explain to which risks they are particularly exposed?"
+f"In this portfolio {portfolio}, please explain to which risks I am particularly exposed to?"
 f"Here is my portfolio {portfolio}, please explain the impact that this transaction might have on my portfolio?"
 f"Here is my portfolio {portfolio}, please explain the impact that this transaction might have on my portfolio profitability?"
 f"Here is my portfolio {portfolio}, please explain to which news I should look out for that might substantially (>20%) impact my portfolio adversely?"

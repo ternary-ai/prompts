@@ -1,5 +1,5 @@
 f"Summarize for this company {shortName} the following news headlines and compress them into the most important information: {headlines}"
-f"Here are recent news articles about industry {industry}. Summarize them and extract a common theme. Explain why this theme matters"
+f"Here are recent news about industry {industry}. Summarize them and extract a common theme. Explain why this theme matters"
 f"Summarize the news articles {news_articles} of these top10 mentioned stocks. {top10}. Then construct an overarching narrative that identifies why these 10 stocks are trending at this point in time. Explain your reasoning step by step."
 f"Here is a the transcript document of an earnings call. {document} . Summarize it please in plain and easy to understand terms"
 f"Here is a 10-K document. {document} . Summarize it please in plain and easy to understand terms"

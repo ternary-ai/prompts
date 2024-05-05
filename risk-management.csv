@@ -1,5 +1,4 @@
 f"""Who are three main publicly listed competitors (company name, tickers) for company : {shortName}. Your response should be in JSON and in this format: [{"competitor":"string","ticker":"string"}]"""
-f"please explain the term 'sharpe ratio' in investing?"
 f"please explain how I can use options to reduce risk in my investment in {shortName}?"
 f"I have these stocks in my portfolio {portfolio}, please analyze how they are exposed to concentration risk?"
 f"I have these stocks in my portfolio {portfolio}, please analyze how they are exposed to default risk?"

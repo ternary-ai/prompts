@@ -9,8 +9,7 @@ f"I would like you to use the attached structured financial data to generate a d
 report. This report should include an analysis of key performance 
 indicators, identification of trends, and observations about our 
 company's financial performance over the last quarter. Data :{data}"
-f"I have a set of news articles and financial reports related to the {industry} industry. Can you 
-analyze these texts and extract insights that indicate the overall 
+f"I have a set of news articles and financial reports related to the {industry} industry. Can you analyze these texts and extract insights that indicate the overall
 market sentiment towards this sector?"
 f"I have a dataset that includes financial data for {shortName}. Based on this data, could you answer the following questions: What was the total revenue last quarter?  Are there any observable trends in the operating expenses over the past year?"
 f"I have financial data for two companies, {shortName1} and {shortName2}. Could you perform an analysis that compares the revenue performance of these two companies over the last five years? Also, suggest some visualizations that would effectively illustrate this comparison. Financial Data : {fData}"
