@@ -30,7 +30,7 @@ It's important to note that all prompts provided in this repository are offered 
 
 ## Contributing
 
-We welcome contributions from the community to enhance the diversity and quality of our prompt collection. If you have a prompt that you believe would be valuable for training autonomous agents or for applications in finance, please feel free to contact us at prompt@ternary.asia and relevant documentation.
+We welcome contributions from the community to enhance the diversity and quality of our prompt collection. If you have a prompt that you believe would be valuable for training autonomous agents or for applications in finance, please feel free to contact us at prompt@ternary.capital and relevant documentation.
 
 ## Contact Us
 
